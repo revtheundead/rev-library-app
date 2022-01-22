@@ -1,0 +1,12 @@
+﻿  proj.cpp
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(9,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\include\Book.h(5,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(10,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\include\Admin.h(7,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\include\User.h(107,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(12,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(373,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(379,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(648,32): warning C4101: 'borrowerID': yerel değişken başvurusu kaldırıldı
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\proj.cpp(943): warning C4715: 'deleteBook': tüm denetim yolları değer döndürmez
+  proj.vcxproj -> C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\Debug\proj.exe

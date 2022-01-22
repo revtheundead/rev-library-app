@@ -1,0 +1,6 @@
+D:\241Project-Seperated\proj\Debug\proj.exe
+D:\241Project-Seperated\proj\Debug\proj.pdb
+D:\Ceng-241-Project\proj\Debug\proj.exe
+D:\Ceng-241-Project\proj\Debug\proj.pdb
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\Debug\proj.exe
+C:\Users\Bpasa\OneDrive\Masaüstü\Project\proj\Debug\proj.pdb
